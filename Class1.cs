@@ -12,3 +12,5 @@ namespace ConsoleApp1
     }
 }
 //dodan komentar
+
+//popravljena greska
